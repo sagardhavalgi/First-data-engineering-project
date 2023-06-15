@@ -23,4 +23,3 @@ Quicksight <br>
 Kafka Producer code - https://github.com/sagardhavalgi/Real-time-data-engineering-project/blob/main/Kafka-Producer.py
 
 Kafka Consumer code - https://github.com/sagardhavalgi/Real-time-data-engineering-project/blob/main/Kafka-Consumer.ipynb
-
